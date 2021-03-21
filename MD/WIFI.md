@@ -153,7 +153,7 @@ Para acceder a este wifi el nombre y contraseña son:
 
 ## DIAGRAMA DE FLUJO
 
-![DIAGRAMA DE FLUJO](DIAGRAMA_FLUJO.jpg)
+![DIAGRAMA DE FLUJO](DIAGRAMA_FLUJO.JPG)
 
 
 
